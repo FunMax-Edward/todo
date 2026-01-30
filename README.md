@@ -152,6 +152,14 @@ MIT License
 
 ---
 
+## 🔒 Privacy & Offline Policy
+
+- **No Tracking**: This app does not collect any user data.
+- **No Ads**: This app contains no advertisements.
+- **Works Offline**: All data is stored locally on your device. No internet connection is required.
+
+---
+
 ## 👨‍💻 Author
 
 Edward
